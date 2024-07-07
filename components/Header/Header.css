@@ -1,0 +1,10 @@
+header {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header li {
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+main {
+  overflow-y: auto;
+}
+
+#change {
+  background-color: var(--body);
+  color: var(--heading);
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 25px;
+}
+
+.change-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
