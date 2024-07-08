@@ -1,5 +1,6 @@
 footer {
-  height: 80px;
-  display: grid;
+  height: 120px;
+  display: flex;
+  justify-content: space-evenly;
   place-items: center;
 }

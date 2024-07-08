@@ -27,7 +27,7 @@ const template = () => {
     </ul>
       <p>${data.aboutMe}</p>
       <p>${data.address}</p>
-      <a class="contact" href=${`mailto:${data.email}`}>Contacto</a>
+      <a class="contact" href=${`mailto:${data.email}`}>Contacto <i class="fa-regular fa-envelope"></i></a>
     </section>
   `;
 };
