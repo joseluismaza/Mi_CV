@@ -4,7 +4,7 @@ const template = () => {
   return `
   <footer>
     <p>©️ Creado por Jose Luis Maza</p>
-    <a href="/public/CV_JoseLuisMaza.pdf" target="_blank">Descargalo en PDF <i class="fa-solid fa-file-pdf"></i></a>
+    <a href="/public/CV_JoseLuisMaza.pdf" target="_blank">Descárgalo en PDF <i class="fa-solid fa-file-pdf"></i></a>
   </footer>
   `;
 };
