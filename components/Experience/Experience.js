@@ -22,8 +22,4 @@ const template = () => {
   </section>`;
 };
 
-const Experience = () => {
-  return template();
-};
-
-export default Experience;
+export { template as Experience };

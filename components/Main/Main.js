@@ -1,8 +1,8 @@
 import "./Main.css";
 import { AboutMe } from "../AboutMe/AboutMe";
-import Education from "../Education/Education";
-import Experience from "../Experience/Experience";
-import Projects from "../Projects/Projects";
+import { Education } from "../Education/Education";
+import { Experience } from "../Experience/Experience";
+import { Projects } from "../Projects/Projects";
 
 let show = "Experiencia";
 

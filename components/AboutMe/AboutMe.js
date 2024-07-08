@@ -4,12 +4,11 @@ import "./AboutMe.css";
 // IMPORTACIÓN FONT AWESOME //
 //Despues de instalar el fontawesome con npm https://docs.fontawesome.com/apis/javascript/get-started
 
-import { library, icon } from '@fortawesome/fontawesome-svg-core'
+import { library } from '@fortawesome/fontawesome-svg-core'
 import { faCamera } from '@fortawesome/free-solid-svg-icons'
 
 library.add(faCamera)
 
-const camera = icon({ prefix: 'fas', iconName: 'camera' })
 
 // Resto de codigo 
 const template = () => {
@@ -33,10 +32,5 @@ const template = () => {
   `;
 };
 
-export const AboutMe = () => {
-  return template();
-};
+export { template as AboutMe };
 
-export const addAboutListeners = () => {
-  const avatar = document.querySelector(".avatar");
-};

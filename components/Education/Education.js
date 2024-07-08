@@ -46,8 +46,4 @@ const template = () => {
   `;
 };
 
-const Education = () => {
-  return template();
-};
-
-export default Education;
+export { template as Education };

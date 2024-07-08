@@ -23,8 +23,5 @@ const template = () => {
   `;
 };
 
-const Projects = () => {
-  return template();
-};
 
-export default Projects;
+export { template as Projects };
