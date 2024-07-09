@@ -88,6 +88,14 @@ const data = {
       preview: "/github.jpg",
     },
     {
+      title: "Netlify",
+      description:
+        "Enlace visual de los diferentes proyectos realizados en Rock the Code.",
+      link: "https://app.netlify.com/teams/joseluismazaluna/overview",
+      preview:
+        "/netlify.jpeg",
+    },
+    {
       title: "Pinterest",
       description:
         "Proyecto Diseño web Asincrónico utilizando la API Unsplash.",
