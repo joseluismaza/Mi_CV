@@ -41,6 +41,14 @@ const data = {
         "Coordinación y gestión de proyectos del Departament d'Educació. Planificación y ruta de entrega e instalación de material. Gestión de equipos. Administrar y mantener sistemas.",
     },
     {
+      position: "Prácticas de programación",
+      company: "I3e IT Resources",
+      startDate: "10/2023",
+      endDate: "01/2024",
+      description:
+        "Involucrado en un proyecto de gestión de personal automatizado para el departamento de selección, utilizando lenguajes de programación como JavaScript mediante método AGILE",
+    },
+    {
       position: "Administrativo",
       company: "Tuinet Sevices",
       startDate: "09/2019",
