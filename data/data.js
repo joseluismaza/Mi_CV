@@ -14,9 +14,9 @@ const data = {
     university: "ROCK THE CODE",
     graduationYear: "2023 - ACTUALIDAD",
     relevantCourses: [
-      "React",
-      "Angular",
-      "JavaScript",
+      // "Vite",
+      // "GitHub",
+      // "JavaScript",
     ],
     degree2: "CFGS - DESARROLLO DE APLICACIONES WEB",
     university2: "ILERNA ONLINE",
@@ -74,20 +74,14 @@ const data = {
     },
   ],
   skills: [
-    { name: "React", icon: "fab fa-react" },
-    { name: "Angular", icon: "fab fa-angular" },
+    // { name: "React", icon: "fab fa-react" },
+    // { name: "Angular", icon: "fab fa-angular" },
     { name: "JavaScript", icon: "fab fa-js-square" },
     { name: "PHP", icon: "fab fa-php" },
     { name: "phpMyAdmin", icon: "fas fa-database" },
     { name: "Desarrollador Frontend y Backend", icon: "fas fa-laptop-code" },
   ],
   projects: [
-    {
-      title: "AnimeVerse",
-      description: "Página creada en Shopify para la venta de figuras de colección de Anime",
-      link: "https://animeverseshop.com/",
-      preview: "/BANNER_AnimeVerse.png",
-    },
     {
       title: "GitHub",
       description:
