@@ -1,5 +1,3 @@
-
-
 const data = {
   name: "Jose Luis Maza",
   address: "Mataró, Barcelona",
@@ -14,9 +12,9 @@ const data = {
     university: "ROCK THE CODE",
     graduationYear: "2023 - ACTUALIDAD",
     relevantCourses: [
-      // "Vite",
-      // "GitHub",
-      // "JavaScript",
+      "Vite",
+      "React",
+      "JavaScript",
     ],
     degree2: "CFGS - DESARROLLO DE APLICACIONES WEB",
     university2: "ILERNA ONLINE",
@@ -74,11 +72,11 @@ const data = {
     },
   ],
   skills: [
-    // { name: "React", icon: "fab fa-react" },
-    // { name: "Angular", icon: "fab fa-angular" },
+    { name: "React", icon: "fab fa-react" },
+    { name: "MongoDB", icon: "fas fa-leaf" },
     { name: "JavaScript", icon: "fab fa-js-square" },
-    { name: "PHP", icon: "fab fa-php" },
-    { name: "phpMyAdmin", icon: "fas fa-database" },
+    { name: "HTML 5", icon: "fab fa-html5" },
+    { name: "CSS 3", icon: "fab fa-css3-alt" },
     { name: "Desarrollador Frontend y Backend", icon: "fas fa-laptop-code" },
   ],
   projects: [
