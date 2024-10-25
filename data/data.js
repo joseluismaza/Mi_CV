@@ -41,7 +41,7 @@ const data = {
     {
       position: "Prácticas de programación",
       company: "I3e IT Resources",
-      startDate: "10/2023",
+      startDate: "09/2023",
       endDate: "01/2024",
       description:
         "Involucrado en un proyecto de gestión de personal automatizado para el departamento de selección, utilizando lenguajes de programación como JavaScript mediante método AGILE",
@@ -72,7 +72,8 @@ const data = {
     },
   ],
   skills: [
-    { name: "React", icon: "fab fa-react" },
+    { name: ".Net", icon: "fa-solid fa-n" },
+    { name: "C++", icon: "fa-solid fa-copyright" },
     { name: "MongoDB", icon: "fas fa-leaf" },
     { name: "JavaScript", icon: "fab fa-js-square" },
     { name: "HTML 5", icon: "fab fa-html5" },
